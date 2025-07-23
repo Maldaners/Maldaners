@@ -20,6 +20,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maldaners/maldaners/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maldaners&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
