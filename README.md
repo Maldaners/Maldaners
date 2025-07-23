@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada como <strong>Tecnologa em Desenvolvimento de Sistemas</strong> pela Unip e enho um <strong>MBA em Engenharia de Software</strong> pela Impacta. Atualmente curso o <strong>MBA em Artificial Intelligence</strong> também na Impacta <br><br>
+  Sou formada como <strong>Tecnologa em Desenvolvimento de Sistemas</strong> pela Unip e tenho um <strong>MBA em Engenharia de Software</strong> pela Impacta. Atualmente cursando <strong>MBA em Artificial Intelligence</strong> também na Impacta <br><br>
   Tenho me aprofundado em <strong>Python</strong>, com foco em <strong>automação de testes</strong> para back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>AWS</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
