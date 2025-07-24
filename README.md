@@ -1,6 +1,5 @@
 <h2>Hi there 👋, I'm Sabrina Maldaner!</h2>
-<p align="left">
-  I'm a Software Developer and Quality Analyst with automation Test 🖥 (˘◡˘) <br>
+<p align="left">🖥 (˘◡˘) <br>
  Tenho focado meus estudos em <strong>QAE</strong>, <strong>Automation Tests</strong> e <strong>AI</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p> <br>
 
