@@ -3,7 +3,7 @@
  Tenho focado meus estudos em <strong>QAE</strong>, <strong>Automation Tests</strong> e <strong>AI</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p> <br>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mim
 
 - 🖥️ Técnica em Informática pela ETEC
 - 🎓 Graduada em Analise e Desenvolvimento de Sistemas pela UNIP
