@@ -9,7 +9,9 @@
 - 🎓 Graduada em Analise e Desenvolvimento de Sistemas pela UNIP
 - 🎓 MBA em Engenharia de Software pela Impacta
 - 🎓 MBA em Artificial Intelligence pela Impacta
-- 📚 Estudando Python, Robot Framework, Java, e AWS.
+- 🎓 Pós em Gestão da Qualidade de Software pela Líbano
+- 🎓 Pós em Tradução do Inglês pela Líbano
+- 📚 Estudando Python, Robot Framework, Playwright, Java, e AWS.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ##
